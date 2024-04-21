@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danuaemx
 - 👀 I’m interested in Quantum computing
-- 🌱 I’m currently learning Computational Engineer
+- 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me IDK
 - ⚡ Fun fact: NOPE
