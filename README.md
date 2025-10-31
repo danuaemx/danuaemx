@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danuaemx
 - 👀 I’m interested in Quantum computing
-- 🌱 I’m currently learning Computing Engineering
+- 🌱 I’m currently learning Fortran, Pascal and Cobol 
 - 📫 How to reach me IDK
 - ⚡ Fun fact: NOPE
 
